@@ -1,5 +1,7 @@
 # AnimaGateOfMemoriesFixer
 
+![bug.png](bug.png)
+
 How to fix a pseudo-death bug
 
 Operating system: Windows
